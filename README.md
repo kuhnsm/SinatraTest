@@ -1,0 +1,4 @@
+SinatraTest
+===========
+
+Test for Sinatra
